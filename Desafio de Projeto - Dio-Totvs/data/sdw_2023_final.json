@@ -1,0 +1,38 @@
+[
+  {
+    "id":1,
+    "nome":"Alice",
+    "saldo":1500,
+    "objetivo":"comprar um carro",
+    "noticias":[
+      {
+        "icon":"💰",
+        "description":"Aqui estão algumas opções concisas:\n\n**Opção 1:**\nAlice, R$1500 é o início! Invista e acelere a compra do seu carro. Vamos juntos!\n(94 caracteres)\n\n**Opção 2:**\nAlice, transforme R$1500 no seu carro! Invista e veja seu sonho crescer.\n(82 caracteres)\n\n**Opção 3:**\nAlice, seu carro está mais perto! Invista os R$1500 e realize esse sonho.\n(82 caracteres)"
+      }
+    ]
+  },
+  {
+    "id":2,
+    "nome":"Bruno",
+    "saldo":500,
+    "objetivo":"fazer uma viagem",
+    "noticias":[
+      {
+        "icon":"💰",
+        "description":"Bruno, sua viagem começa com R$500! Invista agora e chegue lá mais rápido. ✈️"
+      }
+    ]
+  },
+  {
+    "id":3,
+    "nome":"Carla",
+    "saldo":3000,
+    "objetivo":"aposentadoria",
+    "noticias":[
+      {
+        "icon":"💰",
+        "description":"Carla, seus R$3000 são o início! Invista hoje para a aposentadoria dos seus sonhos. (83 caracteres)"
+      }
+    ]
+  }
+]

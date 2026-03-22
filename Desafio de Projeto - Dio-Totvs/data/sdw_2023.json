@@ -1,0 +1,29 @@
+[
+  {
+    "id":1,
+    "nome":"Alice",
+    "saldo":1500.0,
+    "objetivo":"comprar um carro",
+    "noticias":[
+
+    ]
+  },
+  {
+    "id":2,
+    "nome":"Bruno",
+    "saldo":500.0,
+    "objetivo":"fazer uma viagem",
+    "noticias":[
+
+    ]
+  },
+  {
+    "id":3,
+    "nome":"Carla",
+    "saldo":3000.0,
+    "objetivo":"aposentadoria",
+    "noticias":[
+
+    ]
+  }
+]
